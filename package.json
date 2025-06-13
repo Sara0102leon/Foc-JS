@@ -1,0 +1,19 @@
+{
+  "name": "sarai0102",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "stars": "node app",
+    "primer": "node ./clases/ejemplo",
+    "segundo": "node app && node ./clases/ejemplo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "colors": "^1.4.0",
+    "moment": "^2.30.1"
+  }
+}
